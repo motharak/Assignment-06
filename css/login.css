@@ -1,0 +1,22 @@
+.wdform{
+    width: 30vh;
+    border-radius: 10px;
+    background-color: rgb(234, 236, 236);
+    margin-bottom: 10px;
+}
+.bgf{
+    background-color: rgb(226, 140, 12);
+
+}
+.forml{
+    display: inline-flex;
+}
+.right{
+    background-color: aquamarine;
+    width: 30vh;
+}
+.right div h2{
+    width: 100%;
+    margin: auto 0;
+    text-align: center;
+}
